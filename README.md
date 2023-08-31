@@ -1,3 +1,3 @@
 # demo
 my first repo
-author -batman who laugh
+author - batman who laugh
